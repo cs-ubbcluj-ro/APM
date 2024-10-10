@@ -1,6 +1,6 @@
 package group821;
 
-public class Main {
+public class SeminarOne {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
